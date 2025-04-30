@@ -10,7 +10,7 @@ For more than three decades the Seattle Quality of Life Group in the UW School o
 ---
 
 ## 2 About the instruments in this repository  
-The collection spans **adult**, **youth**, and **observer-report** measures. Fully validated scales are listed first; tools still undergoing psychometric testing are marked “under development.”
+The collection spans **adult**, **youth**, and **observer-report** measures and observer-reported measures. 
 
 ### Adult self-report (validated)  
 
@@ -41,9 +41,15 @@ The collection spans **adult**, **youth**, and **observer-report** measures. Ful
 
 Every folder includes the questionnaire, scoring instructions (SAS / SPSS / R scripts where available) and translation files. You are free to copy and share the *unmodified* materials under the Creative Commons license below; please acknowledge **SeaQoL, University of Washington** in any publication or derivative work.
 
+## 3 Additional Instruments
+For all cystic fibrosis instruments, please contact Chris Goss at <goss@uw.edu> 
+For all WHO instruments, please go to <https://www.who.int/tools/whoqol>
+For IBS QOL, please contact Eprovide at <https:eprovide.mapi-trust.org/>
+For others, please contact MAPI research trust at <https://eprovide.mapi-trust.org/>
+
 ---
 
-## 3 License – Creative Commons Attribution-No Derivatives 4.0  
+## 4 License – Creative Commons Attribution-No Derivatives 4.0  
 
 Except where otherwise noted, all questionnaires, manuals, scoring code, and translations in this repository are released under the **Creative Commons Attribution-No Derivatives 4.0 International license (CC BY-ND 4.0)**.  
 <https://creativecommons.org/licenses/by-nd/4.0/>
