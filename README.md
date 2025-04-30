@@ -42,10 +42,10 @@ The collection spans **adult**, **youth**, and **observer-report** measures and 
 Every folder includes the questionnaire, scoring instructions (SAS / SPSS / R scripts where available) and translation files. You are free to copy and share the *unmodified* materials under the Creative Commons license below; please acknowledge **SeaQoL, University of Washington** in any publication or derivative work.
 
 ## 3 Additional Instruments
-For all cystic fibrosis instruments, please contact Chris Goss at <goss@uw.edu> 
-For all WHO instruments, please go to <https://www.who.int/tools/whoqol>
-For IBS QOL, please contact Eprovide at <https:eprovide.mapi-trust.org/>
-For others, please contact MAPI research trust at <https://eprovide.mapi-trust.org/>
+* For all cystic fibrosis instruments, please contact Chris Goss at <goss@uw.edu> 
+* For all WHO instruments, please go to <https://www.who.int/tools/whoqol>
+* For IBS QOL, please contact Eprovide at <https:eprovide.mapi-trust.org/>
+* For others, please contact MAPI research trust at <https://eprovide.mapi-trust.org/>
 
 ---
 
