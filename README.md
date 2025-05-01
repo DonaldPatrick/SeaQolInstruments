@@ -67,7 +67,7 @@ Except where otherwise noted, all questionnaires, manuals, scoring code, and tra
 
 ---
 
-## 4 Support future PRO research at UW (optional)  
+## 5 Support future PRO research at UW (optional)  
 
 Using these tools is **free**. If you would like to give back, you may make a **charitable gift** to the University of Washington in honor of SeaQoL’s legacy (e.g., to the *Patrick Beresford Social Epidemiology Fellowship*). Donations are **voluntary**; no fees, royalties, or per-participant charges are owed.
 
