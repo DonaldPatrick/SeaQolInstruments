@@ -35,7 +35,7 @@ The collection spans **adult**, **youth**, and **observer-report** measures and 
 
 | Instrument | Concept | Status |
 |------------|---------|--------|
-| **[Youth Disability Screener (YDS)](https://depts.washington.edu/seaqol/docs/CDPR-Disability-Screener-10-08.pdf)** | Four-item disability screener | Validated |
+| **[Youth Disability Screener (YDS)]([https://depts.washington.edu/seaqol/docs/CDPR-Disability-Screener-10-08.pdf](https://github.com/DonaldPatrick/SeaQolInstruments/blob/main/YQOL-DHH%20Instruments%20and%20Manuals/CDPR-Disability-Screener-10-08.pdf))** | Four-item disability screener | Validated |
 | **ADHD-OROBE**, **CFRSignD**, **CROBE-DHH**, **FD-OROBE**, **Generic OROBE**, **First Impressions Ratings** | Behavioral & social-impact checklists | Under development |
 | **LMFA-Y / LMFA-O** | Lymphatic-malformation function (self / observer) | Under development |
 
